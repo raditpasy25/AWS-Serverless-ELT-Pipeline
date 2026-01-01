@@ -1,12 +1,14 @@
 # AWS Serverless ELT Pipeline — S3 → Lambda → SQS → Lambda → S3 (Production-lite)
 
-An intentionally lite, serverless pipeline:
+An intentionally lite version enn to end serverless pipeline:
 
 - **Bronze (raw)**: `S3` JSON/JSONL
 - **Ingest**: `Lambda` (object-level idempotency via DynamoDB) → `SQS`
 - **Transform**: `Lambda` (batch from SQS; partial batch failure) → **Silver** `S3` (**Parquet**)
 
-Constraints: no VPC / no EC2 / no API Gateway.
+### Scope 
+- No dependency on VPC/EC2.
+- API Gateway not used in the minimal build.
 
 ## Intro
 
