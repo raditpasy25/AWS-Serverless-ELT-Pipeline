@@ -1,6 +1,6 @@
-# Minimal Serverless ELT — S3 → Lambda → SQS → Lambda → S3 (Production-lite)
+# AWS Serverless ELT Pipeline — S3 → Lambda → SQS → Lambda → S3 (Production-lite)
 
-An intentionally small, resume-ready serverless pipeline:
+An intentionally small, serverless pipeline:
 
 - **Bronze (raw)**: `S3` JSON/JSONL
 - **Ingest**: `Lambda` (object-level idempotency via DynamoDB) → `SQS`
@@ -8,7 +8,7 @@ An intentionally small, resume-ready serverless pipeline:
 
 Constraints: no VPC / no EC2 / no API Gateway.
 
-## Resume bullets (copy/paste)
+## Intro
 
 - Built a production-lite serverless ELT pipeline on AWS: S3 (bronze JSON/JSONL) → Lambda (idempotent ingest) → SQS → Lambda (batch transform) → S3 (silver Parquet).
 - Implemented S3 object-level idempotency using DynamoDB conditional writes + TTL to prevent duplicate ingestion on retries/events.
